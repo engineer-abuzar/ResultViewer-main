@@ -1,35 +1,12 @@
 {
   "expo": {
-    "name": "ResultViewer",
-    "slug": "resultview",
-    "version": "1.0.0",
-    "orientation": "portrait",
-    "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
-    "newArchEnabled": true,
-    "splash": {
-      "image": "./assets/logo.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
-    },
-    "ios": {
-      "supportsTablet": true
-    },
-    "android": {
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/logo.png",
-        "backgroundColor": "#ffffff"
-      },
-      "package": "com.muqaddas123.ResultViewer"
-    },
-    "web": {
-      "favicon": "./assets/favicon.png"
-    },
     "extra": {
       "eas": {
-        "projectId": "96634783-60e1-4642-9cea-c22bf6908a81"
+        "projectId": "b2ef7eb7-de47-4a12-a652-f9a91eead821"
       }
     },
-    "owner": "muqaddas123"
+    "ios": {
+      "bundleIdentifier": "com.abuzar560.resultviewer"
+    }
   }
 }
